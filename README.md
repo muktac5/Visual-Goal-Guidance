@@ -1,5 +1,3 @@
-**Note: Please be advised that we intend to modify the repository name from "Visual Goal-Step Inference" to "Visual Goal Guidance." However, as the link has already been shared, we will proceed with the current name**
-
 ***Visual Goal-Guidance: Step Inference for Instruction Retrieval***
 
 Description: Given a text-based goal and a set of images, the idea is to retrieve all the images that corresponding to the steps leading up to the goal and eventually order them in the next best action based order.
